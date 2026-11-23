@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Abandoned Cart Lite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Abandoned"
+msgstr ""
+
+msgid "Abandoned carts"
+msgstr ""
+
+msgid "Abandonment time (hours)"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Default: 2"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
